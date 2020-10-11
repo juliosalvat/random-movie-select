@@ -1,0 +1,25 @@
+body {
+    background: url('https://cdn.pixabay.com/photo/2016/09/29/11/56/halloween-1702677_960_720.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.cover {
+    padding-top: 2rem;
+}
+
+.cover-heading {
+    color:#fff;
+}
+
+.display {
+   padding: 2rem; 
+   color:#ff7800;
+}
+
+.btn-secondary {
+    background-color: #ff7800;
+    border-color: #935219;
+}
